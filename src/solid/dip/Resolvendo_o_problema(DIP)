@@ -1,0 +1,12 @@
+Princípio da Inversão de Dependências (DIP)
+
+(Depend on abstractions, not on concretions.)
+
+Diz que devemos “depender de abstrações e não de classes concretas”. 
+
+Uncle Bob quebra a definição desse princípio em dois sub-itens:
+
+1- “Módulos de alto nível não devem depender de módulos de baixo nível.”
+
+2- “As abstrações não devem depender de detalhes. Os detalhes devem depender das abstrações.”
+E isso se dá porque abstrações mudam menos e facilitam a mudança de comportamento e as futuras evoluções do código.

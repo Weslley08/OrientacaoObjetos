@@ -1,0 +1,16 @@
+A ideia de se aplicar os princípios em projetos de software é tirar proveito dos benefícios do uso correto da orientação a objetos,
+evitando problemas como: falta de padronização do código, duplicação (lembra do “Don’t repeat yourself”?), 
+dificuldade de isolar funcionalidades que podem ser comuns para vários pontos do código e 
+dificuldade de manutenção (código muito frágil, em que uma modificação pode quebrar uma funcionalidade já testada e funcional).
+
+E se conseguirmos seguir passo a passo todas essas dicas, teremos um código fácil de se manter, 
+testar, reaproveitar, estender e evoluir, sem dúvida alguma. 
+
+Uma dica importante, 
+além de ler as principais bibliografias sobre o tema, como o livro Agile Principles, Patterns, and Practices in C# e 
+o Principles of Ood é começar treinando em projetos pessoais, pequenos e mais simples. 
+
+Comece fazendo mudanças em pontos específicos, evitando a propagação de problemas e trechos “mal-cheirosos” (code-smells). 
+
+Assim, você começa a treinar seu cérebro a pensar de forma mais madura quando 
+estiver diante de situações de desenvolvimento mais complexas do seu dia-a-dia.
